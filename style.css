@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f7fa;
+    color: #161616;
+}
+
+header {
+    background: #dfb4f0;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+header .profile-pic {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    border: 3px solid rgb(223, 140, 243);
+}
+
+header h1 {
+    margin: 0.5rem 0;
+}
+
+a {
+    color: #0f0f0f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+main {
+    width: 80%;
+    margin: 2rem auto;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: rgb(242, 221, 250);
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #141414;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #eabdff;
+    color: white;
+    margin-top: 2rem;
+}
